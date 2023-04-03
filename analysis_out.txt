@@ -1,0 +1,4 @@
+The estimated value for the charge of the electron in e.s.u is 4.92785e-10(±1.37050e-10) with 11.99299% error from theory.
+
+If we adjust the plate separation to the theoretical expected value, we get the estimation 4.26557e-10(±1.18631e-10) with 3.05846% error from theory.
+
